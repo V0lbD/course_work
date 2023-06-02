@@ -1,0 +1,348 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/rapidjson-master/include/rapidjson/allocators.h
+rapidjson.h
+C:/rapidjson-master/include/rapidjson/rapidjson.h
+internal/meta.h
+C:/rapidjson-master/include/rapidjson/internal/meta.h
+memory
+-
+limits
+-
+type_traits
+-
+
+C:/rapidjson-master/include/rapidjson/document.h
+reader.h
+C:/rapidjson-master/include/rapidjson/reader.h
+internal/meta.h
+C:/rapidjson-master/include/rapidjson/internal/meta.h
+internal/strfunc.h
+C:/rapidjson-master/include/rapidjson/internal/strfunc.h
+memorystream.h
+C:/rapidjson-master/include/rapidjson/memorystream.h
+encodedstream.h
+C:/rapidjson-master/include/rapidjson/encodedstream.h
+new
+-
+limits
+-
+compare
+-
+iterator
+-
+map
+-
+
+C:/rapidjson-master/include/rapidjson/encodedstream.h
+stream.h
+C:/rapidjson-master/include/rapidjson/stream.h
+memorystream.h
+C:/rapidjson-master/include/rapidjson/memorystream.h
+
+C:/rapidjson-master/include/rapidjson/encodings.h
+rapidjson.h
+C:/rapidjson-master/include/rapidjson/rapidjson.h
+
+C:/rapidjson-master/include/rapidjson/error/error.h
+../rapidjson.h
+C:/rapidjson-master/include/rapidjson/rapidjson.h
+
+C:/rapidjson-master/include/rapidjson/internal/biginteger.h
+../rapidjson.h
+C:/rapidjson-master/include/rapidjson/rapidjson.h
+intrin.h
+-
+
+C:/rapidjson-master/include/rapidjson/internal/clzll.h
+../rapidjson.h
+C:/rapidjson-master/include/rapidjson/rapidjson.h
+intrin.h
+-
+
+C:/rapidjson-master/include/rapidjson/internal/diyfp.h
+../rapidjson.h
+C:/rapidjson-master/include/rapidjson/rapidjson.h
+clzll.h
+C:/rapidjson-master/include/rapidjson/internal/clzll.h
+limits
+-
+intrin.h
+-
+
+C:/rapidjson-master/include/rapidjson/internal/ieee754.h
+../rapidjson.h
+C:/rapidjson-master/include/rapidjson/rapidjson.h
+
+C:/rapidjson-master/include/rapidjson/internal/meta.h
+../rapidjson.h
+C:/rapidjson-master/include/rapidjson/rapidjson.h
+type_traits
+-
+
+C:/rapidjson-master/include/rapidjson/internal/pow10.h
+../rapidjson.h
+C:/rapidjson-master/include/rapidjson/rapidjson.h
+
+C:/rapidjson-master/include/rapidjson/internal/stack.h
+../allocators.h
+C:/rapidjson-master/include/rapidjson/allocators.h
+swap.h
+C:/rapidjson-master/include/rapidjson/internal/swap.h
+cstddef
+-
+
+C:/rapidjson-master/include/rapidjson/internal/strfunc.h
+../stream.h
+C:/rapidjson-master/include/rapidjson/stream.h
+cwchar
+-
+
+C:/rapidjson-master/include/rapidjson/internal/strtod.h
+ieee754.h
+C:/rapidjson-master/include/rapidjson/internal/ieee754.h
+biginteger.h
+C:/rapidjson-master/include/rapidjson/internal/biginteger.h
+diyfp.h
+C:/rapidjson-master/include/rapidjson/internal/diyfp.h
+pow10.h
+C:/rapidjson-master/include/rapidjson/internal/pow10.h
+climits
+-
+limits
+-
+
+C:/rapidjson-master/include/rapidjson/internal/swap.h
+../rapidjson.h
+C:/rapidjson-master/include/rapidjson/rapidjson.h
+
+C:/rapidjson-master/include/rapidjson/istreamwrapper.h
+stream.h
+C:/rapidjson-master/include/rapidjson/stream.h
+iosfwd
+-
+ios
+-
+
+C:/rapidjson-master/include/rapidjson/memorystream.h
+stream.h
+C:/rapidjson-master/include/rapidjson/stream.h
+
+C:/rapidjson-master/include/rapidjson/msinttypes/inttypes.h
+stdint.h
+C:/rapidjson-master/include/rapidjson/msinttypes/stdint.h
+inttypes.h
+-
+
+C:/rapidjson-master/include/rapidjson/msinttypes/stdint.h
+stdint.h
+-
+limits.h
+-
+wchar.h
+-
+
+C:/rapidjson-master/include/rapidjson/rapidjson.h
+cstdlib
+-
+cstring
+-
+rapidjson/...
+C:/rapidjson-master/include/rapidjson/rapidjson/...
+string
+-
+msinttypes/stdint.h
+C:/rapidjson-master/include/rapidjson/msinttypes/stdint.h
+msinttypes/inttypes.h
+C:/rapidjson-master/include/rapidjson/msinttypes/inttypes.h
+stdint.h
+-
+inttypes.h
+-
+endian.h
+-
+rapidjson/...
+C:/rapidjson-master/include/rapidjson/rapidjson/...
+cassert
+-
+utility
+-
+cassert
+-
+
+C:/rapidjson-master/include/rapidjson/reader.h
+allocators.h
+C:/rapidjson-master/include/rapidjson/allocators.h
+stream.h
+C:/rapidjson-master/include/rapidjson/stream.h
+encodedstream.h
+C:/rapidjson-master/include/rapidjson/encodedstream.h
+internal/clzll.h
+C:/rapidjson-master/include/rapidjson/internal/clzll.h
+internal/meta.h
+C:/rapidjson-master/include/rapidjson/internal/meta.h
+internal/stack.h
+C:/rapidjson-master/include/rapidjson/internal/stack.h
+internal/strtod.h
+C:/rapidjson-master/include/rapidjson/internal/strtod.h
+limits
+-
+intrin.h
+-
+nmmintrin.h
+-
+emmintrin.h
+-
+arm_neon.h
+-
+stdexcept
+-
+rapidjson/error/error.h
+C:/rapidjson-master/include/rapidjson/rapidjson/error/error.h
+rapidjson/reader.h
+C:/rapidjson-master/include/rapidjson/rapidjson/reader.h
+error/error.h
+C:/rapidjson-master/include/rapidjson/error/error.h
+
+C:/rapidjson-master/include/rapidjson/stream.h
+rapidjson.h
+C:/rapidjson-master/include/rapidjson/rapidjson.h
+encodings.h
+C:/rapidjson-master/include/rapidjson/encodings.h
+
+D:/University/4th semester/course_work/allocator/memory_base_class.h
+../logger/logger_builder.h
+D:/University/4th semester/course_work/logger/logger_builder.h
+../logger/logger_holder.h
+D:/University/4th semester/course_work/logger/logger_holder.h
+
+D:/University/4th semester/course_work/allocator/memory_holder.h
+memory_base_class.h
+D:/University/4th semester/course_work/allocator/memory_base_class.h
+
+D:/University/4th semester/course_work/allocator_from_global_heap/memory_from_global_heap.h
+../allocator/memory_base_class.h
+D:/University/4th semester/course_work/allocator/memory_base_class.h
+
+D:/University/4th semester/course_work/b_tree/associative_container.h
+
+D:/University/4th semester/course_work/b_tree/b_tree.h
+stack
+-
+associative_container.h
+D:/University/4th semester/course_work/b_tree/associative_container.h
+../logger/logger.h
+D:/University/4th semester/course_work/logger/logger.h
+../logger/logger_holder.h
+D:/University/4th semester/course_work/logger/logger_holder.h
+../allocator/memory_base_class.h
+D:/University/4th semester/course_work/allocator/memory_base_class.h
+../allocator/memory_holder.h
+D:/University/4th semester/course_work/allocator/memory_holder.h
+
+D:/University/4th semester/course_work/chain_of_resp_and_command/command.h
+../db_value/db_value.h
+D:/University/4th semester/course_work/db_value/db_value.h
+../db_value/db_value_builder.h
+D:/University/4th semester/course_work/db_value/db_value_builder.h
+
+D:/University/4th semester/course_work/chain_of_resp_and_command/handler.h
+command.h
+D:/University/4th semester/course_work/chain_of_resp_and_command/command.h
+chrono
+-
+
+D:/University/4th semester/course_work/db/data_base.h
+iostream
+-
+tuple
+-
+vector
+-
+../allocator/memory_holder.h
+D:/University/4th semester/course_work/allocator/memory_holder.h
+../allocator_from_global_heap/memory_from_global_heap.h
+D:/University/4th semester/course_work/allocator_from_global_heap/memory_from_global_heap.h
+../logger/logger_holder.h
+D:/University/4th semester/course_work/logger/logger_holder.h
+../b_tree/associative_container.h
+D:/University/4th semester/course_work/b_tree/associative_container.h
+../b_tree/b_tree.h
+D:/University/4th semester/course_work/b_tree/b_tree.h
+../chain_of_resp_and_command/handler.h
+D:/University/4th semester/course_work/chain_of_resp_and_command/handler.h
+../db_key/key.h
+D:/University/4th semester/course_work/db_key/key.h
+
+D:/University/4th semester/course_work/db_key/key.h
+iostream
+-
+fstream
+-
+
+D:/University/4th semester/course_work/db_user_communication.cpp
+db_user_communication.h
+D:/University/4th semester/course_work/db_user_communication.h
+
+D:/University/4th semester/course_work/db_user_communication.h
+db_key/key.h
+D:/University/4th semester/course_work/db_key/key.h
+db_value/db_value_builder.h
+D:/University/4th semester/course_work/db_value/db_value_builder.h
+db/data_base.h
+D:/University/4th semester/course_work/db/data_base.h
+
+D:/University/4th semester/course_work/db_value/db_value.h
+string_holder.h
+D:/University/4th semester/course_work/db_value/string_holder.h
+
+D:/University/4th semester/course_work/db_value/db_value_builder.h
+db_value.h
+D:/University/4th semester/course_work/db_value/db_value.h
+
+D:/University/4th semester/course_work/db_value/string_holder.h
+iostream
+-
+chrono
+-
+map
+-
+
+D:/University/4th semester/course_work/logger/logger.h
+iostream
+-
+exception
+-
+C:/rapidjson-master/include/rapidjson/document.h
+-
+C:/rapidjson-master/include/rapidjson/istreamwrapper.h
+-
+fstream
+-
+map
+-
+string
+-
+chrono
+-
+
+D:/University/4th semester/course_work/logger/logger_builder.h
+iostream
+-
+fstream
+-
+logger.h
+D:/University/4th semester/course_work/logger/logger.h
+json-develop/single_include/nlohmann/json.hpp
+D:/University/4th semester/course_work/logger/json-develop/single_include/nlohmann/json.hpp
+
+D:/University/4th semester/course_work/logger/logger_holder.h
+logger.h
+D:/University/4th semester/course_work/logger/logger.h
+

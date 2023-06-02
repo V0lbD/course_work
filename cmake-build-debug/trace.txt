@@ -1,0 +1,71 @@
+<--- [ trace ]  --->
+[ 02/06/2023 07:52:57 ][ trace ] data_base::add_to_structure method started
+[ 02/06/2023 07:53:00 ][ trace ] data_base::get_new_allocator_for_inner_trees method started
+[ 02/06/2023 07:53:00 ][ trace ] An object of global heap allocator was constructed
+[ 02/06/2023 07:53:00 ][ trace ] data_base::get_new_allocator_for_inner_trees method finished
+[ 02/06/2023 07:53:01 ][ trace ] insertion_template_method::insert method started
+[ 02/06/2023 07:53:01 ][ debug ] insertion_template_method::insert inserting to root for the first time
+[ 02/06/2023 07:53:01 ][ trace ] insertion_template_method::insert method finished
+[ 02/06/2023 07:53:01 ][ trace ] data_base::add_to_structure method finished
+[ 02/06/2023 07:53:01 ][ trace ] data_base::add_to_structure method started
+[ 02/06/2023 07:53:02 ][ trace ] data_base::find_data_pool method started
+[ 02/06/2023 07:53:02 ][ trace ] finding_template_method::find method started
+[ 02/06/2023 07:53:02 ][ trace ] finding_template_method::find method finished
+[ 02/06/2023 07:53:02 ][ trace ] data_base::find_data_pool method finished
+[ 02/06/2023 07:53:02 ][ trace ] insertion_template_method::insert method started
+[ 02/06/2023 07:53:02 ][ debug ] insertion_template_method::insert inserting to root for the first time
+[ 02/06/2023 07:53:02 ][ trace ] memory_from_global_heap::allocate method execution started
+[ 02/06/2023 07:53:02 ][ information ] memory block with _size = 152 was allocated successfully
+[ 02/06/2023 07:53:02 ][ debug ] Allocated block address: 0x0000023d3d366870
+[ 02/06/2023 07:53:02 ][ trace ] memory_from_global_heap::allocate method execution finished
+[ 02/06/2023 07:53:02 ][ trace ] memory_from_global_heap::allocate method execution started
+[ 02/06/2023 07:53:02 ][ information ] memory block with _size = 152 was allocated successfully
+[ 02/06/2023 07:53:02 ][ debug ] Allocated block address: 0x0000023d3d366940
+[ 02/06/2023 07:53:02 ][ trace ] memory_from_global_heap::allocate method execution finished
+[ 02/06/2023 07:53:02 ][ trace ] memory_from_global_heap::allocate method execution started
+[ 02/06/2023 07:53:02 ][ information ] memory block with _size = 160 was allocated successfully
+[ 02/06/2023 07:53:02 ][ debug ] Allocated block address: 0x0000023d3d366a10
+[ 02/06/2023 07:53:02 ][ trace ] memory_from_global_heap::allocate method execution finished
+[ 02/06/2023 07:53:02 ][ trace ] insertion_template_method::insert method finished
+[ 02/06/2023 07:53:02 ][ trace ] data_base::add_to_structure method finished
+[ 02/06/2023 07:53:02 ][ trace ] data_base::add_to_structure method started
+[ 02/06/2023 07:53:03 ][ trace ] data_base::find_data_scheme method started
+[ 02/06/2023 07:53:03 ][ trace ] data_base::find_data_pool method started
+[ 02/06/2023 07:53:03 ][ trace ] finding_template_method::find method started
+[ 02/06/2023 07:53:03 ][ trace ] finding_template_method::find method finished
+[ 02/06/2023 07:53:03 ][ trace ] data_base::find_data_pool method finished
+[ 02/06/2023 07:53:03 ][ trace ] finding_template_method::find method started
+[ 02/06/2023 07:53:03 ][ trace ] finding_template_method::find method finished
+[ 02/06/2023 07:53:03 ][ trace ] data_base::find_data_scheme method finished
+[ 02/06/2023 07:53:03 ][ trace ] insertion_template_method::insert method started
+[ 02/06/2023 07:53:03 ][ debug ] insertion_template_method::insert inserting to root for the first time
+[ 02/06/2023 07:53:03 ][ trace ] memory_from_global_heap::allocate method execution started
+[ 02/06/2023 07:53:03 ][ information ] memory block with _size = 152 was allocated successfully
+[ 02/06/2023 07:53:03 ][ debug ] Allocated block address: 0x0000023d3d366de0
+[ 02/06/2023 07:53:03 ][ trace ] memory_from_global_heap::allocate method execution finished
+[ 02/06/2023 07:53:03 ][ trace ] memory_from_global_heap::allocate method execution started
+[ 02/06/2023 07:53:03 ][ information ] memory block with _size = 152 was allocated successfully
+[ 02/06/2023 07:53:03 ][ debug ] Allocated block address: 0x0000023d3d366eb0
+[ 02/06/2023 07:53:03 ][ trace ] memory_from_global_heap::allocate method execution finished
+[ 02/06/2023 07:53:03 ][ trace ] memory_from_global_heap::allocate method execution started
+[ 02/06/2023 07:53:03 ][ information ] memory block with _size = 160 was allocated successfully
+[ 02/06/2023 07:53:03 ][ debug ] Allocated block address: 0x0000023d3d366f80
+[ 02/06/2023 07:53:03 ][ trace ] memory_from_global_heap::allocate method execution finished
+[ 02/06/2023 07:53:03 ][ trace ] insertion_template_method::insert method finished
+[ 02/06/2023 07:53:03 ][ trace ] data_base::add_to_structure method finished
+[ 02/06/2023 07:53:46 ][ trace ] data_base::add_to_structure method started
+[ 02/06/2023 07:53:47 ][ trace ] data_base::get_new_allocator_for_inner_trees method started
+[ 02/06/2023 07:53:47 ][ trace ] An object of global heap allocator was constructed
+[ 02/06/2023 07:53:47 ][ trace ] data_base::get_new_allocator_for_inner_trees method finished
+[ 02/06/2023 07:53:48 ][ trace ] insertion_template_method::insert method started
+[ 02/06/2023 07:53:48 ][ warning ] b_tree::b_node::insert_in_non_full a key to insert is not unique
+[ 02/06/2023 07:53:48 ][ trace ] An object of global heap allocator was destructed
+[ 02/06/2023 07:53:48 ][ warning ] data_base::add_to_structure insert failed due to non-unique pool name to insert
+[ 02/06/2023 07:53:48 ][ trace ] data_base::add_to_structure method finished
+[ 02/06/2023 07:53:48 ][ trace ] data_base::add_to_structure method started
+[ 02/06/2023 07:53:49 ][ trace ] data_base::find_data_pool method started
+[ 02/06/2023 07:53:49 ][ trace ] finding_template_method::find method started
+[ 02/06/2023 07:53:49 ][ trace ] finding_template_method::find method finished
+[ 02/06/2023 07:53:49 ][ trace ] data_base::find_data_pool method finished
+[ 02/06/2023 07:53:49 ][ trace ] insertion_template_method::insert method started
+[ 02/06/2023 07:53:49 ][ warning ] b_tree::b_node::insert_in_non_full a key to insert is not unique

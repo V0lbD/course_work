@@ -1,0 +1,4 @@
+<--- [ warning ]  --->
+[ 02/06/2023 07:53:48 ][ warning ] b_tree::b_node::insert_in_non_full a key to insert is not unique
+[ 02/06/2023 07:53:48 ][ warning ] data_base::add_to_structure insert failed due to non-unique pool name to insert
+[ 02/06/2023 07:53:49 ][ warning ] b_tree::b_node::insert_in_non_full a key to insert is not unique

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="course_work"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/University/4th semester/course_work/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/University/4th semester/course_work/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="course_work">
+				<Option output="D:/University/4th semester/course_work/cmake-build-debug/course_work.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/University/4th semester/course_work/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 course_work"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="course_work/fast">
+				<Option output="D:/University/4th semester/course_work/cmake-build-debug/course_work.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/University/4th semester/course_work/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 course_work/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/University/4th semester/course_work/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/University/4th semester/course_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/University/4th semester/course_work/allocator/memory_base_class.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/allocator/memory_base_class.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/allocator/memory_holder.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/allocator/memory_holder.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/allocator_from_global_heap/memory_from_global_heap.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/allocator_from_global_heap/memory_from_global_heap.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/b_tree/associative_container.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/b_tree/b_tree.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/chain_of_resp_and_command/command.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/chain_of_resp_and_command/handler.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/db/data_base.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/db/data_base.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/db_key/key.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/db_user_communication.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/db_user_communication.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/db_value/db_value.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/db_value/db_value.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/db_value/db_value_builder.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/db_value/db_value_builder.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/db_value/string_holder.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/logger/logger.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/logger/logger.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/logger/logger_builder.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/logger/logger_builder.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/logger/logger_holder.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/logger/logger_holder.h">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/main.cpp">
+			<Option target="course_work"/>
+		</Unit>
+		<Unit filename="D:/University/4th semester/course_work/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

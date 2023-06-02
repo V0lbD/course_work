@@ -1,0 +1,22 @@
+Knyaz Uliya Stanislavovna
+14/10/2000
+chess.com
+9087
+c++
+13
+10
+false
+Andreev Roman Olegovich
+14/5/2002
+links.com
+8625
+python
+15
+5
+true
+8932, 9086
+surname: Orlov
+link_to_resume:ai.com
+p_language:c#
+solved: 13
+exit

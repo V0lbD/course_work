@@ -1,0 +1,120 @@
+add global pull1
+add pull2
+add pull1/scheme1
+add pull2/scheme1
+add pull2/scheme2
+add pull2/scheme3
+add pull1/scheme1/collection1
+add pull1/scheme1/collection2
+add pull1/scheme1/collection3
+add
+0, 1
+Ivanova Yana Vladimirovna
+15/07/2023
+aboba.com
+-1
+c
+10
+9
+true
+pull1/scheme1/collection1
+add
+1, 0
+Petrov Ilya Andreevich
+15/07/2022
+abobus.com
+8
+c++
+11
+0
+false
+pull1/scheme1/collection1
+add
+2, 1
+Kuznetsova Sofia Dmitrievna
+15/07/2002
+bus.com
+8
+python
+11
+10
+false
+pull1/scheme1/collection1
+add
+2, 0
+Kuznetsova Sofia Dmitrievna
+15/07/2002
+bus.com
+8
+python
+11
+9
+false
+pull1/scheme1/collection1
+add
+3, 0
+Smirnov Sergey Alexandrovich
+15/07/2003
+a.com
+8
+c++
+11
+1
+true
+pull1/scheme1/collection1
+add
+4, 1
+Petrov Ilya Andreevich
+15/07/2022
+bs.com
+8
+c++
+11
+0
+false
+pull1/scheme1/collection1
+add
+4, 0
+Petrov Ilya Andreevich
+15/07/2022
+bs.com
+8
+c++
+11
+10
+true
+pull1/scheme1/collection1
+add
+5, 1
+Volkova Anastasia Nikolaevna
+15/07/2001
+bs.com
+8
+c++
+11
+8
+false
+pull1/scheme1/collection1
+add
+5, 0
+Volkova Anastasia Nikolaevna
+15/07/2001
+bs.com
+8
+c#
+11
+3
+false
+pull1/scheme1/collection1
+add
+6, 0
+Fedorov Dmitry Sergeevich
+15/07/2000
+bs.com
+8
+ruby
+11
+11
+false
+pull1/scheme1/collection1
+exit
